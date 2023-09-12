@@ -8,5 +8,4 @@ My Website Biolink Using HTML CSS JS
 - Allah SWT
 - ORTU
 - SAUDARA
-- CEWE GW ARETA NAYA
 - TEMEN GW
